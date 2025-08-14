@@ -49,6 +49,7 @@ If you don't have certificates yet:
 ```bash
 sudo apt install libnss3-tools
 brew install mkcert
+apt install mkcert
 mkcert -install
 ```
 
